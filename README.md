@@ -10,7 +10,7 @@
 <br>
 <p align="center"> We worked with the React Framework on the Front-End and Ruby on Rails on
         the Back-End, and on both sides, we implemented GraphQL to create this
-        app to find the breweries that carried our brew of choice. Interact with our live app here => (https://maltmatcher.vercel.app/)
+        app to find the breweries that carried our brew of choice. Interact with our live app here => https://maltmatcher.vercel.app/
 <br>
 <p align="center">We hope you enjoy!
 
